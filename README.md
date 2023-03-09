@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrinkhal01
-- 👀 I’m interested in ...blckchain dev,animation,coding(obviously...),video editing
-- 🌱 I’m currently learning ...C and C++
-- 💞️ I’m looking to collaborate on ... projects based on C,c++
+- 👀 I’m interested in ..coding,video editing,animation
+- 🌱 I’m currently learning ...C , C++ & Java
+- 💞️ I’m looking to collaborate on ... projects any related to computers
 - 📫 How to reach me ... shrinkhalshrinkhal22@gmail.com
 
 <!---
