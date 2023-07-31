@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shrinkhal01
 - 👀 I’m interested in ..coding,video editing,animation
-- 🌱 I’m currently learning ...C , C++ & Java
+- 🌱 I’m currently learning ...C , C++ , Python & Java
 - 💞️ I’m looking to collaborate on ... projects any related to computers
 - 📫 How to reach me ... shrinkhalshrinkhal22@gmail.com
 
