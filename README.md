@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrinkhal01
 - 👀 I’m interested in ..coding,video editing,animation
-- 🌱 I’m currently learning ...C , C++ , Python & Java
-- 💞️ I’m looking to collaborate on ... projects any related to computers
+- 🌱 I’m currently learning ...Programming and am a game dev enthusiast
+- 💞️ I’m looking to collaborate on ... projects any related to computer science
 - 📫 How to reach me ... shrinkhalshrinkhal22@gmail.com
 
 <!---
