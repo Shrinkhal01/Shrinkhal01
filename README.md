@@ -1,4 +1,4 @@
-![logo](https://dl.openseauserdata.com/cache/originImage/files/88bd4aaa3b0377ce176a38c3af5e4227.gif)
+![logo](https://github.com/Shrinkhal01/Shrinkhal01/blob/main/Metal%20Poster%20Programmer%20Cat.jpg)
 <h1 align="center">Hi 👋, I'm Shrinkhal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
