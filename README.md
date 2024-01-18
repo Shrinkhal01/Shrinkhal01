@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **C++,C projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shrinkhal01/Shrinkhal01](https://github.com/Shrinkhal01/Shrinkhal01)
+- 👨‍💻 All of my projects are available at [https://github.com/Shrinkhal01/Shrinkhal01]
 
 - 📫 How to reach me **shrinkhalshrinkhal22@gmail.com**
 
