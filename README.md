@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I love video editing , photo editing and sometimes gaming (CODING is an obvious one)**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="codingwidth="400"src="https://github.com/Shrinkhal01/Shrinkhal01/blob/main/A%20determined%20individual.jpg">
+<img align="right" alt="coding" width="200" src="https://github.com/Shrinkhal01/Shrinkhal01/blob/main/A%20determined%20individual.jpg">
 <p align="left">
 <a href="https://twitter.com/_shrinkhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shrinkhal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shrinkhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrinkhal" height="30" width="40" /></a>
