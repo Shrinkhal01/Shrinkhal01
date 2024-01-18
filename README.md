@@ -1,6 +1,7 @@
 <p align="center">
-  ![logo](https://github.com/Shrinkhal01/Shrinkhal01/blob/main/Metal%20Poster%20Programmer%20Cat.jpg")
+  <img src="https://github.com/Shrinkhal01/Shrinkhal01/blob/main/Metal%20Poster%20Programmer%20Cat.jpg" alt="logo">
 </p>
+
 <h1 align="center">Hi 👋, I'm Shrinkhal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
