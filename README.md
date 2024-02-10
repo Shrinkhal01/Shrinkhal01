@@ -13,6 +13,7 @@
 
 -  I’m looking to collaborate on **C++, C, Python projects**
 
+
 -  I’m also good at making the powerpoint presentations
 
 - ‍ All of my projects are available at [https://github.com/Shrinkhal01/Shrinkhal01]
