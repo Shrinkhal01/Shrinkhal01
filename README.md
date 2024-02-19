@@ -32,6 +32,7 @@
   <a href="https://www.leetcode.com/shrinkhal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrinkhal" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 <h3 align="left"> Tech Stack:</h3>
