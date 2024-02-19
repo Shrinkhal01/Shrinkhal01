@@ -32,9 +32,6 @@
   <a href="https://www.leetcode.com/shrinkhal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrinkhal" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/_shrinkhal" target="blank">
-    <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=for-the-badge" alt="_shrinkhal" />
-  </a>
 </p>
 
 <h3 align="left"> Tech Stack:</h3>
