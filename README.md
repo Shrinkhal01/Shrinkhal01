@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- I’m looking to collaborate on **C++, C, Python projects**
+- I’m looking to collaborate on **Java, C++, C, Python projects**
 
 - I’m also good at making PowerPoint presentations
 
