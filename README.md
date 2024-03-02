@@ -30,7 +30,7 @@
   <a href="https://twitter.com/_shrinkhal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shrinkhal" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/shrinkhal" target="blank">
+  <a href="https://leetcode.com/shrinkhalshrinkhal22/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrinkhal" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0" target="_blank" rel="noopener noreferrer">
