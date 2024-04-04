@@ -24,9 +24,6 @@
 <a href="https://twitter.com/_shrinkhal" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_shrinkhal" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/shrinkhal" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrinkhal" height="30" width="40" />
-</a>
 <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0" target="_blank" rel="noopener noreferrer">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
