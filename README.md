@@ -14,7 +14,7 @@
 - I'm looking to collaborate on **Java, C++, C, Python projects**
 - I'm also good at making PowerPoint presentations
 - All of my projects are available at [https://github.com/Shrinkhal01/Shrinkhal01](https://github.com/Shrinkhal01/Shrinkhal01)
-- How to reach me **shrinkhalshrinkhal22@gmail.com**
+- How to reach me **shrinkhalshrinkhal22@gmail.com** 
 - ⚡ Fun fact **I love video editing, photo editing, and sometimes gaming (CODING is an obvious one)**
 
 <h3 align="left">Socials:</h3>
