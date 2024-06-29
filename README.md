@@ -30,36 +30,49 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-</p>
 
 <h4>Best frameworks and ML/DL libraries for Python:</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" />
+  </div>
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" />
+  </div>
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40" />
+  </div>
+</div>
 
 <h4>My tools for data manipulation & visualization:</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
+  </div>
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  </div>
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" />
+  </div>
+</div>
 
 <h4>Environments, Testing, Other:</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+  </div>
+</div>
 
 <h4>OS:</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  </div>
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
+  </div>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&locale=en" alt="Shrinkhal01" />
