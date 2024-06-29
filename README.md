@@ -52,7 +52,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="go" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </p>
 
 <h4>Best frameworks and ML/DL libraries for Python:</h4>
@@ -72,21 +72,12 @@
 <h4>Environments, Testing, Other:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40" />
 </p>
 
 <h4>OS:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" />
-</p>
-
-<h4>Tools for CTF's:</h4>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/metasploit/metasploit-original.svg" alt="metasploit" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireguard/wireguard-original.svg" alt="wireguard" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burpsuite/burpsuite-original.svg" alt="burpsuite" width="40" height="40" />
 </p>
 
 <p align="center">
