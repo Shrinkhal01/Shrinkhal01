@@ -1,5 +1,4 @@
-<p align="center">(https://media.giphy.com/media/em8FB3p6I641y/giphy.gif)
-</p>
+![Hi, I'm Shrinkhal](https://media.giphy.com/media/em8FB3p6I641y/giphy.gif)
 
 <h1 align="center">Hi, I'm Shrinkhal</h1>
 <h3 align="center">A passionate software developer from India</h3>
