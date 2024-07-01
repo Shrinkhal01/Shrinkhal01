@@ -1,5 +1,4 @@
-<p align="center">
-<div style="width:100%;height:0;padding-bottom:133%;position:relative;"><iframe src="https://giphy.com/embed/em8FB3p6I641y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-hello-kitty-chinatown-em8FB3p6I641y">via GIPHY</a></p>
+<p align="center">(https://media.giphy.com/media/em8FB3p6I641y/giphy.gif)
 </p>
 
 <h1 align="center">Hi, I'm Shrinkhal</h1>
