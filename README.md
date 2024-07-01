@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Shrinkhal01/Shrinkhal01/blob/main/Metal%20Poster%20Programmer%20Cat.jpg" alt="logo">
+<img src="https://giphy.com/gifs/cat-hello-kitty-chinatown-em8FB3p6I641y" alt="logo">
 </p>
 
 <h1 align="center">Hi, I'm Shrinkhal</h1>
