@@ -74,16 +74,12 @@
   </div>
 </div>
 
-<table style="width: 80%; margin: auto; border-collapse: collapse; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; text-align: center;">
-  <tr>
-    <th colspan="2" style="background-color: #f0f0f0; padding: 10px; font-size: 18px; border-bottom: 1px solid #ccc;"><h3>♐ Random code snippet</h3></th>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 20px; border-bottom: 1px solid #ccc;">
-      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="Random code snippet" style="max-width: 100%; height: auto; display: block; margin: auto;">
-    </td>
-  </tr>
-</table>
+<div style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; text-align: center;">
+  <h3 style="background-color: #f0f0f0; padding: 10px; font-size: 18px; margin: 0;">♐ Random code snippet</h3>  <div style="padding: 20px;">
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="Random code snippet" style="max-width: 100%; height: auto; display: block; margin: auto;">
+  </div>
+</div>
+
 
 
 
