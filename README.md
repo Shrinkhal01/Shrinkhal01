@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/em8FB3p6I641y/giphy.gif" width="200" height="250" alt="Hi, I'm Shrinkhal">
 </p>
 
-
 <h1 align="center">Hi, I'm Shrinkhal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -50,7 +49,7 @@
   <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
   </div>
-  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">x`
+  <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   </div>
   <div style="border: 1px solid #ccc; padding: 5px; margin-right: 10px;">
@@ -75,6 +74,25 @@
   </div>
 </div>
 
+<table>
+  <tr><th colspan="2"><h3>♐ Random code snippet</h3></th></tr>
+  <tr><td colspan="2" align="center"><p>This plugin displays a random code snippet from recent activity history.</p>
+</td></tr>
+  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
+All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
+</td></tr>
+  <tr><th>ℹ Additional notes</th><td><blockquote>
+<p>⚠️ When improperly configured, this plugin could display private code.
+If you work with sensitive data or company code, it is advised to keep this plugin disabled.
+Use at your own risk, <em>metrics</em> and its authors cannot be held responsible for any resulting code leaks.</p>
+</blockquote>
+</td></tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&locale=en" alt="Shrinkhal01" />
