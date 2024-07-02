@@ -88,3 +88,4 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Shrinkhal01&icon=0&color=0)](https://visitcount.itsvg.in)
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/l3q2wJsC23ikJg9xe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thanks-thank-you-kazoo-kid-l3q2wJsC23ikJg9xe">via GIPHY</a></p>
