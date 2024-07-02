@@ -57,6 +57,10 @@ Operating Systems
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/>
 </p>
+Contributions
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Shrinkhal01&theme=react-dark&bg_color=20232a&hide_border=true&line=FF0000&point=FFFFFF" alt="Shrinkhal's GitHub Activity Graph" />
+</p>
 Random Code Snippet
 <div style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; text-align: center;">
   <h3 style="background-color: #f0f0f0; padding: 10px; font-size: 18px; margin: 0;">♐ Random code snippet</h3>  
