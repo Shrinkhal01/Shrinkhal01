@@ -25,8 +25,7 @@ About Me
 ⚡ Fun fact: I love video editing, photo editing, and sometimes gaming (CODING is an obvious one)
 My Projects
 All of my projects are available on my GitHub.
-<br>
-Connect with Me
+<br><br>Connect with Me
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
