@@ -74,9 +74,25 @@
   </div>
 </div>
 
-<p align="center">
-  <img src="https://github.com/Shrinkhal01/Shrinkhal01/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+<table>
+  <tr><th colspan="2"><h3>♐ Random code snippet</h3></th></tr>
+  <tr><td colspan="2" align="center"><p>This plugin displays a random code snippet from recent activity history.</p>
+</td></tr>
+  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://github.com">GitHub</a>.
+All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
+</td></tr>
+  <tr><th>ℹ Additional notes</th><td><blockquote>
+<p>⚠️ When improperly configured, this plugin could display private code.
+If you work with sensitive data or company code, it is advised to keep this plugin disabled.
+Use at your own risk, <em>metrics</em> and its authors cannot be held responsible for any resulting code leaks.</p>
+</blockquote>
+</td></tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&locale=en" alt="Shrinkhal01" />
@@ -86,22 +102,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinkhal01&show_icons=true&locale=en&layout=compact" alt="Shrinkhal01" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif" width="200" height="250" alt="Thanks GIF">
-</p>
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-  <iframe src="https://giphy.com/embed/l3q2wJsC23ikJg9xe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
-<p align="center">
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
-    <iframe src="https://giphy.com/embed/l3q2wJsC23ikJg9xe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-<p align="center">
-  <img src="https://media.giphy.com/media/l3q2wJsC23ikJg9xe/giphy.gif" width="200" height="250" alt="Hi, I'm Shrinkhal">
-</p>
-<p align="center">
-  <a href="https://giphy.com/gifs/thanks-thank-you-kazoo-kid-l3q2wJsC23ikJg9xe">via GIPHY</a>
-</p>
-
 
 [![](https://visitcount.itsvg.in/api?id=Shrinkhal01&icon=0&color=0)](https://visitcount.itsvg.in)
