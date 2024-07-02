@@ -58,7 +58,7 @@ Operating Systems
 </p>
 Contributions
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Shrinkhal01&theme=react-dark&bg_color=20232a&hide_border=true&line=FF0000&point=FFFFFF" alt="Shrinkhal's GitHub Activity Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true" /></a>
 </p>
 Random Code Snippet
 <div style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; text-align: center;">
