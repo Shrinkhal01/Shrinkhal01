@@ -74,14 +74,17 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
 </p>
 
 ## Contributions
+## Contributions
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true" /></a>
 </p>
 
-<div></div>
+---
+
 ## I WILL BE ADDING A REPOSITORY CONTAINTNG THE 100 DAYS OF CODE CALLENGE CODES IN JAVA
-<div></div>
+
+---
 
 ## Random Code Snippet
 
@@ -91,3 +94,4 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
     <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="Random code snippet" style="max-width: 100%; height: auto; display: block; margin: auto;">
   </div>
 </div>
+
