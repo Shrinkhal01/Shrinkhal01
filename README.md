@@ -84,8 +84,8 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
 
 ---
 
-## I WILL BE ADDING A REPOSITORY CONTAINTNG THE 100 DAYS OF CODE CALLENGE CODES IN JAVA
-
+## I HAVE ADDED A REPOSITORY CONTAINTNG THE 100 DAYS OF CODE CALLENGE CODES IN JAVA
+## CONSTANTLY UPDATING IT AS I SOLVE PROBLEMS
 ## Random Code Snippet
 
 <div style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; text-align: center;">
