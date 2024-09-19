@@ -76,6 +76,8 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/MacOS_wordmark_%282017%29.svg" alt="macOS" width="40" height="40" style="margin-right: 10px;"/>
+
 </p>
 
 ## Contributions
