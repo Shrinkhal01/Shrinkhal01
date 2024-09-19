@@ -57,7 +57,8 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="DIRECT_IMAGE_URL" alt="macOS Apple logo" width="40" height="40" style="margin-right: 10px;"/>
+
 </p>
 
 ### My Tools for Data Manipulation & Visualization
