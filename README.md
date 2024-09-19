@@ -77,8 +77,7 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple logo" width="40" height="40" style="margin-right: 10px;"/>
-
+  <img src="https://github.com/user-attachments/assets/4ec79720-66bf-4562-ae3f-10acd96646dd" alt="Apple Events" width="40" height="40" style="margin-right: 10px;"/>
 
 </p>
 
