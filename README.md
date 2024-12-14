@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/em8FB3p6I641y/giphy.gif" width="200" height="250" alt="Hi, I'm Shrinkhal">
 </p>
 
-<h1 align="center">Hi, I'm Shrinkhal</h1>
+<h1 align="center">Hi, I'm Shrinkhal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="center">
@@ -88,3 +88,12 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
 ## 100 Days of Code
 
 I have added a repository containing the 100 Days of Code challenge codes in Java. Constantly updating it as I solve problems.
+
+## Random Code Snippet
+
+<div align="center" style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
+  <h3 style="background-color: #f0f0f0; padding: 10px; font-size: 18px; margin: 0;">♐ Random code snippet</h3>  
+  <div style="padding: 20px;">
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="Random code snippet" style="max-width: 100%; height: auto; display: block; margin: auto;">
+  </div>
+</div>
