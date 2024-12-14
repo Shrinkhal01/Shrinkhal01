@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=for-the-badge" alt="_shrinkhal" />
+    <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=for-the-badge&color=6e6e6e" alt="_shrinkhal" />
   </a>
 </p>
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+### 🛠️ Tech Stack
 
 #### **Programming Languages**
 <p align="center">
@@ -49,41 +49,41 @@
 
 ---
 
-### 📊 &nbsp;GitHub Stats & Activities
+### 📊 GitHub Stats & Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&theme=radical" alt="Shrinkhal01" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal01" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&theme=github_dark" alt="Shrinkhal01" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=github_dark" alt="Shrinkhal01" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinkhal01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Shrinkhal01" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinkhal01&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Shrinkhal01" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shrinkhal01&icon=0&color=0" alt="Profile Visits" />
+  <img src="https://visitcount.itsvg.in/api?id=Shrinkhal01&icon=0&color=6e6e6e" alt="Profile Visits" />
 </p>
 
 ---
 
-### ✨ &nbsp;About Me
+### ✨ About Me
 
-- 🔭 I'm looking to collaborate on **Java, C++, C, Python projects**.
-- 🌟 I'm also good at making **PowerPoint presentations**.
-- 📫 How to reach me: **shrinkhalshrinkhal22@gmail.com**.
-- ⚡ Fun fact: **I love video editing, photo editing, and sometimes gaming** (besides coding, of course).
+- 🔭 I’m currently working on **Java, C++, C, Python projects**.
+- 🌟 I also enjoy creating **PowerPoint presentations**.
+- 📫 Reach me at: **shrinkhalshrinkhal22@gmail.com**.
+- ⚡ Fun fact: **I enjoy video editing, photo editing, and occasional gaming** (aside from coding, of course).
 
 ---
 
-### 🚀 &nbsp;100 Days of Code
+### 🚀 100 Days of Code
 
-I have a dedicated repository for the **100 Days of Code** challenge in Java. Constantly updating it as I solve more problems.
+I’m documenting my **100 Days of Code** journey, focusing on Java challenges. Feel free to explore the repository.
 
 [Check out the repository here!](https://github.com/Shrinkhal01/100-days-of-code)
 
 ---
 
-### 🔥 &nbsp;Random Code Snippet
+### 🔥 Random Code Snippet
 
 ```python
 # A simple Python code for Fibonacci Series
@@ -96,12 +96,11 @@ def fibonacci(n):
 fibonacci(10)
 ```
 ### 📞  Connect with Me
-<p align="center"> <a href="https://twitter.com/_shrinkhal" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
+<p align="center"> <a href="https://twitter.com/_shrinkhal" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=6e6e6e" alt="Twitter" /> </a> <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6e6e6e" alt="LinkedIn" /> </a> </p>
 
 
 ### 📅  Latest Contributions
-<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true" /> </a> </p>
-
+<p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=6e6e6e&line=ffffff&point=6e6e6e&hide_border=true" /> </a> </p> <p align="center"> <a href="https://github.com/Shrinkhal01" target="_blank"> <img src="https://img.shields.io/badge/All Projects-GitHub-181717?style=for-the-badge&color=6e6e6e" alt="GitHub" /> </a> </p> 
 
 <p align="center">
   <a href="https://github.com/Shrinkhal01" target="_blank">
