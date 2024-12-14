@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/em8FB3p6I641y/giphy.gif" width="200" height="250" alt="Hi, I'm Shrinkhal">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="250" alt="Hi, I'm Shrinkhal">
 </p>
 
 <h1 align="center">Hi, I'm Shrinkhal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
