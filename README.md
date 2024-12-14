@@ -11,15 +11,10 @@
   </a>
 </p>
 
-
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&theme=radical" alt="Shrinkhal01" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal01" />
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinkhal01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Shrinkhal01" />
@@ -28,6 +23,8 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Shrinkhal01&icon=0&color=0" alt="Profile Visits" />
 </p>
+
+---
 
 ## About Me
 
@@ -46,14 +43,10 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
   <a href="https://twitter.com/_shrinkhal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shrinkhal-02761a2b0" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
 
 ## Tech Stack
 
@@ -61,7 +54,6 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
-
 </p>
 
 ### My Tools for Data Manipulation & Visualization
@@ -81,24 +73,25 @@ All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/S
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/4ec79720-66bf-4562-ae3f-10acd96646dd" alt="Apple Events" width="40" height="40" style="margin-right: 10px;"/>
-
 </p>
 
 ## Contributions
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true" />
+  </a>
 </p>
-
-
 
 ---
 
-## I HAVE ADDED A REPOSITORY CONTAINTNG THE 100 DAYS OF CODE CALLENGE CODES IN JAVA
-## CONSTANTLY UPDATING IT AS I SOLVE PROBLEMS
+## 100 Days of Code
+
+I have added a repository containing the 100 Days of Code challenge codes in Java. Constantly updating it as I solve problems.
+
 ## Random Code Snippet
 
-<div style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif; text-align: center;">
+<div align="center" style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
   <h3 style="background-color: #f0f0f0; padding: 10px; font-size: 18px; margin: 0;">♐ Random code snippet</h3>  
   <div style="padding: 20px;">
     <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="Random code snippet" style="max-width: 100%; height: auto; display: block; margin: auto;">
