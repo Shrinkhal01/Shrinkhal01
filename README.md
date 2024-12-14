@@ -103,4 +103,9 @@ fibonacci(10)
 <p align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true" /> </a> </p>
 
 
-<p align="center"> <a href="https://github.com/Shrinkhal01/Shrinkhal01" target="_blank"> <img src="https://img.shields.io/badge/All Projects-GitHub-181717?style=for-the-badge" alt="GitHub" /> </a> </p>
+<p align="center">
+  <a href="https://github.com/Shrinkhal01" target="_blank">
+    <img src="https://img.shields.io/badge/All Projects-GitHub-181717?style=for-the-badge" alt="GitHub" />
+  </a>
+</p>
+
