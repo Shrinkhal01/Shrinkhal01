@@ -11,13 +11,53 @@
   </a>
 </p>
 
+---
+
+### 🛠️ &nbsp;Tech Stack
+
+#### **Programming Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&theme=radical" alt="Shrinkhal01" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal01" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+#### **ML/DL Libraries**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+#### **Data Manipulation & Visualization**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+#### **DevOps & Tools**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+#### **Operating Systems**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+---
+
+### 📊 &nbsp;GitHub Stats & Activities
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&theme=radical" alt="Shrinkhal01" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal01" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinkhal01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Shrinkhal01" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shrinkhal01&show_icons=true&locale=en&layout=compact&theme=radical" alt="Shrinkhal01" width="400" />
 </p>
 
 <p align="center">
@@ -26,74 +66,31 @@
 
 ---
 
-## About Me
+### ✨ &nbsp;About Me
 
-- 🔭 I'm looking to collaborate on **Java, C++, C, Python projects**
-- 🌟 I'm also good at making PowerPoint presentations
-- 📫 How to reach me: **shrinkhalshrinkhal22@gmail.com**
-- ⚡ Fun fact: **I love video editing, photo editing, and sometimes gaming (CODING is an obvious one)**
-
-## My Projects
-
-All of my projects are available on my [GitHub](https://github.com/Shrinkhal01/Shrinkhal01).
-
-## Connect with Me
-
-<p align="center">
-  <a href="https://twitter.com/_shrinkhal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shrinkhal-02761a2b0" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-## Tech Stack
-
-### Best Frameworks and ML/DL Libraries for Python
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
-</p>
-
-### My Tools for Data Manipulation & Visualization
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" style="margin-right: 10px;"/>
-</p>
-
-### Environments, Testing, Other
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
-</p>
-
-### Operating Systems
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/4ec79720-66bf-4562-ae3f-10acd96646dd" alt="Apple Events" width="40" height="40" style="margin-right: 10px;"/>
-</p>
-
-## Contributions
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Shrinkhal's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrinkhal01&bg_color=1a1b27&color=ffffff&line=00e676&point=ffffff&hide_border=true" />
-  </a>
-</p>
+- 🔭 I'm looking to collaborate on **Java, C++, C, Python projects**.
+- 🌟 I'm also good at making **PowerPoint presentations**.
+- 📫 How to reach me: **shrinkhalshrinkhal22@gmail.com**.
+- ⚡ Fun fact: **I love video editing, photo editing, and sometimes gaming** (besides coding, of course).
 
 ---
 
-## 100 Days of Code
+### 🚀 &nbsp;100 Days of Code
 
-I have added a repository containing the 100 Days of Code challenge codes in Java. Constantly updating it as I solve problems.
+I have a dedicated repository for the **100 Days of Code** challenge in Java. Constantly updating it as I solve more problems.
 
-## Random Code Snippet
+[Check out the repository here!](https://github.com/Shrinkhal01/100-days-of-code)
 
-<div align="center" style="width: 80%; margin: 0 auto; border: 1px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); font-family: Arial, sans-serif;">
-  <h3 style="background-color: #f0f0f0; padding: 10px; font-size: 18px; margin: 0;">♐ Random code snippet</h3>  
-  <div style="padding: 20px;">
-    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.code.svg" alt="Random code snippet" style="max-width: 100%; height: auto; display: block; margin: auto;">
-  </div>
-</div>
+---
+
+### 🔥 &nbsp;Random Code Snippet
+
+```python
+# A simple Python code for Fibonacci Series
+def fibonacci(n):
+    a, b = 0, 1
+    for _ in range(n):
+        print(a, end=" ")
+        a, b = b, a + b
+
+fibonacci(10)
