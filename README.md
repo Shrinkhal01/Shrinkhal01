@@ -41,9 +41,7 @@ Why Java?
 Well as my first ever programming language I still feel like it is the language that I would prefer to work with...
 
 [Check out the repository here!](https://github.com/Shrinkhal01/100-days-of-code)
-
 ---
-
 ### 📞  Connect with Me
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
