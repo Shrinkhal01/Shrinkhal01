@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 <h3 style="font-family: 'Courier New', monospace; color: #ddd;">🛠️ Tech Stack</h3>
 
 #### **Programming Languages**
