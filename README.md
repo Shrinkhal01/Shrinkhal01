@@ -41,17 +41,7 @@ Well as my first ever programming language I still feel like it is the language 
 
 [Check out the repository here!](https://github.com/Shrinkhal01/100-days-of-code)
 ---
-### 📞  Connect with Me
-<p align="center">
-  <a href="https://twitter.com/_shrinkhal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=6e6e6e" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6e6e6e" alt="LinkedIn" />
-  </a>
-</p>
 
----
 
 ### 🔥 Random Code Snippet
 
