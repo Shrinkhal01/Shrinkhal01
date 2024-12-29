@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=for-the-badge&color=6e6e6e" alt="_shrinkhal" />
   </a>
 </p>
-
 ---
 <h3 style="font-family: 'Courier New', monospace; color: #ddd;">🛠️ Tech Stack</h3>
 
