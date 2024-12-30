@@ -38,7 +38,7 @@ I’ve done my **100 Days of Code** journey in Java. Feel free to explore the re
 Why Java?
 Well as my first ever programming language I still feel like it is the language that I would prefer to work with...
 
-[Check out the repository here!](https://github.com/Shrinkhal01/100-days-of-code)
+[Check out the repository here!]([https://github.com/Shrinkhal01/100-days-of-code](https://github.com/Shrinkhal01/JAVA-PROGRAMS))
 ---
 
 
