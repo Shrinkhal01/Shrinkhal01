@@ -41,7 +41,7 @@ Well as my first ever programming language I still feel like it is the language 
 ---
 
 
-### 🔥 Random Code Snippet
+###  Random Code Snippet
 
 ```python
 # A simple Python code for Fibonacci Series
