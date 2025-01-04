@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi, I'm Shrinkhal</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace;">A Passionate Software Developer</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace;">Cybersecurity Enthusiast | Linux Enthusiast</h3>
 
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
