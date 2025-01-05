@@ -33,7 +33,7 @@
 ---
 
 <h3 style="font-family: 'Courier New', monospace; color: #ddd;">🚀 100 Days of Code</h3>
-I’ve done my **100 Days of Code** journey in Java. Feel free to explore the repository.
+I’ve done my 100 Days of Code journey in Java. Feel free to explore the repository.
 Why Java?
 Well as my first ever programming language I still feel like it is the language that I would prefer to work with...
 
