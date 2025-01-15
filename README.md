@@ -7,7 +7,7 @@
   </a>
 </p>
 <h3 style="font-family: 'Courier New', monospace; color: #ddd;">🛠️ Tech Stack</h3>
-#### **Programming Languages**
+**Programming Languages**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" style="margin-right: 10px;"/>
