@@ -26,7 +26,7 @@
 
 <h3 style="font-family: 'Courier New', monospace; color: #ddd;">✨ About Me</h3>
 
-- 🔭 I’m currently working on **Java, C++, C, Python projects**.
+- 🔭 I’m currently working on **Java, C++, C, Python projects, Linux Systems**.
 - 🌟 I also enjoy creating **PowerPoint presentations**.
 - 📫 Reach me at: **shrinkhalshrinkhal22@gmail.com**.
 
