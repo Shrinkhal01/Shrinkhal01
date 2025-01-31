@@ -47,6 +47,7 @@
   <p>🌱 I’m currently learning <strong>Machine Learning and Deep Learning</strong>.</p>
   <p>💬 Ask me about <strong>Cybersecurity, Linux, and Programming</strong>.</p>
 </div>
+
 ---
 
 <h3 style="font-family: 'Courier New', monospace; color: #ddd;">🚀 100 Days of Code</h3>
