@@ -90,7 +90,7 @@ Well as my first ever programming language I still feel like it is the language 
 
 ---
 
-<h3 style="font-family: 'Courier New', monospace; color: #ddd;">💡 Random Code Snippet</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">💡 Random Code Snippet</h3>
 
 ```python
 # A simple Python code for Fibonacci Series
