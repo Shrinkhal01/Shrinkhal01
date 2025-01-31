@@ -39,7 +39,7 @@
 
 ---
 
-<h3 style="font-family: 'Courier New', monospace; color: #ddd;">✨ About Me</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">✨ About Me</h3>
 
 - 🔭 I’m currently working on **Java, C++, C, Python projects, Linux Systems**.
 - 🌟 I also enjoy creating **PowerPoint presentations**.
@@ -58,7 +58,7 @@ Well as my first ever programming language I still feel like it is the language 
 
 ---
 
-<h3 style="font-family: 'Courier New', monospace; color: #ddd;">📈 GitHub Stats</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">📈 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&theme=radical" alt="Shrinkhal's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&theme=radical" alt="Top Languages" />
@@ -66,7 +66,7 @@ Well as my first ever programming language I still feel like it is the language 
 
 ---
 
-<h3 style="font-family: 'Courier New', monospace; color: #ddd;">📞 Connect with Me</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">📞 Connect with Me</h3>
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=6e6e6e" alt="Twitter" />
@@ -81,7 +81,7 @@ Well as my first ever programming language I still feel like it is the language 
 
 ---
 
-<h3 style="font-family: 'Courier New', monospace; color: #ddd;">🐍 GitHub Contribution Snake</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🐍 GitHub Contribution Snake</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake.svg" />
