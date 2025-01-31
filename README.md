@@ -15,7 +15,7 @@
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🛠️ Tech Stack</h3>
 
-<h3 align="center"> **Programming Languages**</h3>
+<h3 align="center"> Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" style="margin-right: 10px;"/>
@@ -23,13 +23,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<h3 align="center"> **ML/DL Libraries**</h3>
+<h3 align="center"> ML/DL Libraries</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<h3 align="center"> **Tools & Technologies** </h3>
+<h3 align="center"> Tools & Technologies </h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
