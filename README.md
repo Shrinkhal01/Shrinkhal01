@@ -40,13 +40,13 @@
 ---
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">✨ About Me</h3>
-<h3 align="center">
+<p1 align="center">
 - 🔭 I’m currently working on **Java, C++, C, Python projects, Linux Systems**.
 - 🌟 I also enjoy creating **PowerPoint presentations**.
 - 📫 Reach me at: **shrinkhalshrinkhal22@gmail.com**.
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**.
 - 💬 Ask me about **Cybersecurity, Linux, and Programming**.
-</h3>
+</p1>
 ---
 
 <h3 style="font-family: 'Courier New', monospace; color: #ddd;">🚀 100 Days of Code</h3>
