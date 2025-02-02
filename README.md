@@ -61,7 +61,7 @@ Java was my first programming language, and it has a special place in my heart. 
 ---
 
 <center>  
-  **Check out the repository and explore my 100 Days of Code journey!**  
+  Check out the repository and explore my 100 Days of Code journey!
   [🔗 Visit the repository here!](https://github.com/Shrinkhal01/JAVA-PROGRAMS)  
 </center>
 
