@@ -50,12 +50,21 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🚀 100 Days of Code</h3>
-I’ve done my 100 Days of Code journey in Java. Feel free to explore the repository.
-Why Java?
-Well as my first ever programming language I still feel like it is the language that I would prefer to work with...
+### 🚀 100 Days of Code in Java
 
-<center> [Check out the repository here!](https://github.com/Shrinkhal01/JAVA-PROGRAMS)</center>
+I've completed my **100 Days of Code** journey, and I chose **Java** as my language of focus. It has been an incredible experience that helped me grow as a developer.
+
+#### Why Java?
+
+Java was my first programming language, and it has a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently. It's the language I still prefer for many of my projects.
+
+---
+
+<center>  
+  **Check out the repository and explore my 100 Days of Code journey!**  
+  [🔗 Visit the repository here!](https://github.com/Shrinkhal01/JAVA-PROGRAMS)  
+</center>
+
 
 ---
 
