@@ -62,7 +62,7 @@ Java was my first programming language, and it holds a special place in my heart
 Visit the repo here:
 <center>
 
-[Visit the repository](https://github.com/Shrinkhal01/JAVA-PROGRAMS)
+[100daysofcode](https://github.com/Shrinkhal01/JAVA-PROGRAMS)
 
 </center>
 
