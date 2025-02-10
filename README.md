@@ -41,11 +41,11 @@
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">✨ About Me</h3>
 <div align="center" style="font-family: 'Courier New', monospace; color: #ddd;">
-  <p1>🔭 I’m currently working on <strong>Java, C++, C, Python projects, Linux Systems.</p1>
-  <p1>🌟 I also enjoy creating <strong>PowerPoint presentations.</p1>
-  <p1>📫 Reach me at: <strong>shrinkhalshrinkhal22@gmail.com.</p1>
-  <p1>🌱 I’m currently learning <strong>Machine Learning and Deep Learning.</p1>
-  <p1>💬 Ask me about <strong>Cybersecurity, Linux, and Programming.</p1>
+  <p1>🔭 I’m currently working on <strong>Java, C++, C, Python projects, Linux Systems.</p1><br>
+  <p1>🌟 I also enjoy creating <strong>PowerPoint presentations.</p1><br>
+  <p1>📫 Reach me at: <strong>shrinkhalshrinkhal22@gmail.com.</p1><br>
+  <p1>🌱 I’m currently learning <strong>Machine Learning and Deep Learning.</p1><br>
+  <p1>💬 Ask me about <strong>Cybersecurity, Linux, and Programming.</p1><br>
 </div>
 
 ---
