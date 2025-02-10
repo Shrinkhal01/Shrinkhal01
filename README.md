@@ -56,7 +56,7 @@ I've completed my **100 Days of Code** journey, and I chose **Java** as my langu
 
 #### Why Java?
 
-Java was my first programming language, and it has a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently. It's the language I still prefer for many of my projects.
+Java was my first programming language, and it has a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently.
 
 ---
 
@@ -64,7 +64,6 @@ Java was my first programming language, and it has a special place in my heart. 
   Check out the repository and explore my 100 Days of Code journey!
   [🔗 Visit the repository here!](https://github.com/Shrinkhal01/JAVA-PROGRAMS)  
 </center>
-
 
 ---
 
@@ -74,6 +73,15 @@ Java was my first programming language, and it has a special place in my heart. 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal's Streak" />
+</p>
+<p align="center">
+  <img src="https://badges.pufler.dev/years/Shrinkhal01?style=for-the-badge&label=Longest%20Streak&logo=github&color=6e6e6e" alt="Longest Streak" />
+</p>
 
 ---
 
@@ -98,5 +106,4 @@ def fibonacci(n):
 
 fibonacci(10)
 ```
-
 ---
