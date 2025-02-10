@@ -59,10 +59,11 @@ I completed my **100 Days of Code** journey with **Java**. It was an incredible 
 Java was my first programming language, and it holds a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently.
 
 ---
+Visit the repo here:
+<center>
 
-<center>  
-  Explore my 100 Days of Code journey!<br>
-  [Visit the repository](https://github.com/Shrinkhal01/JAVA-PROGRAMS)  
+[Visit the repository](https://github.com/Shrinkhal01/JAVA-PROGRAMS)
+
 </center>
 
 ---
