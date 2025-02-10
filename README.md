@@ -52,17 +52,17 @@
 
 ### 🚀 100 Days of Code in Java
 
-I've completed my **100 Days of Code** journey, and I chose **Java** as my language of focus. It has been an incredible experience that helped me grow as a developer.
+I completed my **100 Days of Code** journey with **Java**. It was an incredible experience that helped me grow as a developer.
 
 #### Why Java?
 
-Java was my first programming language, and it has a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently.
+Java was my first programming language, and it holds a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently.
 
 ---
 
 <center>  
-  Check out the repository and explore my 100 Days of Code journey!
-  [🔗 Visit the repository here!](https://github.com/Shrinkhal01/JAVA-PROGRAMS)  
+  Explore my 100 Days of Code journey!<br>
+  [🔗 Visit the repository](https://github.com/Shrinkhal01/JAVA-PROGRAMS)  
 </center>
 
 ---
