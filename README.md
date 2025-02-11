@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi, I'm Shrinkhal</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">Cybersecurity Enthusiast | Linux Enthusiast</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace;">Cybersecurity Enthusiast | Linux Enthusiast</h3>
 
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
@@ -66,6 +66,16 @@ Visit the repo here:
 <center>
 [100daysofcode](https://github.com/Shrinkhal01/JAVA-PROGRAMS)
 </center>
+
+<hr />
+
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🐍 Snake Game</h3>
+<div align="center" style="font-family: 'Courier New', monospace; color: #ddd;">
+  <p>Relive the nostalgia with my classic Snake Game implementation!</p>
+  <a href="https://github.com/Shrinkhal01/Snake-Game" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Snake-Click%20Here-blue?style=for-the-badge&logo=python" alt="Snake Game" />
+  </a>
+</div>
 
 <hr />
 
