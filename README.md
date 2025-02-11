@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi, I'm Shrinkhal</h1>
-<h3 align="center" style="font-family: 'Courier New', monospace;">Cybersecurity Enthusiast | Linux Enthusiast</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">Cybersecurity Enthusiast | Linux Enthusiast</h3>
 
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
@@ -13,9 +13,11 @@
   </a>
 </p>
 
+<hr />
+
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🛠️ Tech Stack</h3>
 
-<h3 align="center"> Programming Languages</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">Programming Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" style="margin-right: 10px;"/>
@@ -23,13 +25,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<h3 align="center"> ML/DL Libraries</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">ML/DL Libraries</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<h3 align="center"> Tools & Technologies </h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">Tools & Technologies</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
@@ -37,18 +39,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
----
+<hr />
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">✨ About Me</h3>
 <div align="center" style="font-family: 'Courier New', monospace; color: #ddd;">
-  <p1>🔭 I’m currently working on <strong>Java, C++, C, Python projects, Linux Systems.</p1><br>
-  <p1>🌟 I also enjoy creating <strong>PowerPoint presentations.</p1><br>
-  <p1>📫 Reach me at: <strong>shrinkhalshrinkhal22@gmail.com.</p1><br>
-  <p1>🌱 I’m currently learning <strong>Machine Learning and Deep Learning.</p1><br>
-  <p1>💬 Ask me about <strong>Cybersecurity, Linux, and Programming.</p1><br>
+  <p>🔭 I’m currently working on <strong>Java, C++, C, Python projects, Linux Systems.</strong></p>
+  <p>🌟 I also enjoy creating <strong>PowerPoint presentations.</strong></p>
+  <p>📫 Reach me at: <strong>shrinkhalshrinkhal22@gmail.com.</strong></p>
+  <p>🌱 I’m currently learning <strong>Machine Learning and Deep Learning.</strong></p>
+  <p>💬 Ask me about <strong>Cybersecurity, Linux, and Programming.</strong></p>
 </div>
 
----
+<hr />
 
 ### 🚀 100 Days of Code in Java
 
@@ -59,14 +61,13 @@ I completed my **100 Days of Code** journey with **Java**. It was an incredible 
 Java was my first programming language, and it holds a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently.
 
 ---
+
 Visit the repo here:
 <center>
-
 [100daysofcode](https://github.com/Shrinkhal01/JAVA-PROGRAMS)
-
 </center>
 
----
+<hr />
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">📈 GitHub Stats</h3>
 <p align="center">
@@ -74,7 +75,7 @@ Visit the repo here:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<hr />
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
 <p align="center">
@@ -83,16 +84,3 @@ Visit the repo here:
 <p align="center">
   <img src="https://badges.pufler.dev/years/Shrinkhal01?style=for-the-badge&label=Longest%20Streak&logo=github&color=6e6e6e" alt="Longest Streak" />
 </p>
-
----
-
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal's Streak" />
- </p>
- <p align="center">
-   <img src="https://badges.pufler.dev/years/Shrinkhal01?style=for-the-badge&label=Longest%20Streak&logo=github&color=6e6e6e" alt="Longest Streak" />
- </p>
-
----
-
