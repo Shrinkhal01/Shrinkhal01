@@ -81,3 +81,11 @@ Visit the repo here:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal's Streak" />
 
+  ---
+  <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🐍 GitHub Contribution Snake</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake.svg" />
+</picture>
+
