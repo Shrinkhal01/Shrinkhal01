@@ -86,25 +86,13 @@ Visit the repo here:
 
 ---
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🐍 GitHub Contribution Snake</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shrinkhal01/Shrinkhal01/output/github-snake.svg" />
-</picture>
+79| <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
+80| <p align="center">
+81|   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal's Streak" />
+82| </p>
+83| <p align="center">
+84|   <img src="https://badges.pufler.dev/years/Shrinkhal01?style=for-the-badge&label=Longest%20Streak&logo=github&color=6e6e6e" alt="Longest Streak" />
+85| </p>
 
 ---
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">💡 Random Code Snippet</h3>
-
-```python
-# A simple Python code for Fibonacci Series
-def fibonacci(n):
-    a, b = 0, 1
-    for _ in range(n):
-        print(a, end=" ")
-        a, b = b, a + b
-
-fibonacci(10)
-```
----
