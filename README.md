@@ -80,7 +80,4 @@ Visit the repo here:
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal's Streak" />
-</p>
-<p align="center">
-  <img src="https://badges.pufler.dev/years/Shrinkhal01?style=for-the-badge&label=Longest%20Streak&logo=github&color=6e6e6e" alt="Longest Streak" />
-</p>
+
