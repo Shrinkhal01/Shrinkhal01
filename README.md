@@ -1,24 +1,24 @@
-<h1 align="center" style="font-family: 'Courier New', monospace;">Hi, I'm Shrinkhal</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace; color: #E95420;">Hi, I'm Shrinkhal</h1>
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">Cybersecurity Enthusiast | Linux Enthusiast | Ubuntu & RHEL</h3>
 
 <p align="center">
 
   <a href="https://twitter.com/_shrinkhal" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=for-the-badge&color=6e6e6e" alt="_shrinkhal" />
+    <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=for-the-badge&color=E95420" alt="_shrinkhal" />
   </a>
 
   <a href="https://github.com/Shrinkhal01" target="_blank">
-    <img src="https://img.shields.io/github/followers/Shrinkhal01?logo=github&style=for-the-badge&color=6e6e6e" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Shrinkhal01?logo=github&style=for-the-badge&color=E95420" alt="GitHub Followers" />
   </a>
 
   <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=6e6e6e" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=E95420" alt="LinkedIn" />
   </a>
 
 </p>
 
-<hr />
+<hr style="border: 1px solid #E95420;" />
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🛠️ Tech Stack</h3>
 
@@ -46,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rhel" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<hr />
+<hr style="border: 1px solid #E95420;" />
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">✨ About Me</h3>
 <div align="center" style="font-family: 'Courier New', monospace; color: #ddd;">
@@ -57,7 +57,7 @@
   <p>💬 Ask me about <strong>Cybersecurity, Linux (Ubuntu, RHEL), and Programming.</strong></p>
 </div>
 
-<hr />
+<hr style="border: 1px solid #E95420;" />
 
 ### 🚀 100 Days of Code in Java
 I completed my **100 Days of Code** journey with **Java**. It was an incredible experience that helped me grow as a developer.
@@ -65,19 +65,19 @@ I completed my **100 Days of Code** journey with **Java**. It was an incredible 
 #### Why Java?
 Java was my first programming language, and it holds a special place in my heart. Over time, I’ve come to appreciate its versatility, robust ecosystem, and ability to solve complex problems efficiently.
 
-<hr />
+<hr style="border: 1px solid #E95420;" />
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&theme=radical" alt="Shrinkhal's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrinkhal01&show_icons=true&bg_color=282828&title_color=E95420&text_color=FFFFFF&icon_color=E95420&border_color=E95420" alt="Shrinkhal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&bg_color=282828&title_color=E95420&text_color=FFFFFF&icon_color=E95420&border_color=E95420" alt="Top Languages" />
 </p>
 
-<hr />
+<hr style="border: 1px solid #E95420;" />
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=radical" alt="Shrinkhal's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&background=282828&stroke=E95420&ring=E95420&fire=E95420&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E95420&sideLabels=FFFFFF&dates=FFFFFF&border=E95420" alt="Shrinkhal's Streak" />
 </p>
 
 ---
