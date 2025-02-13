@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Courier New', monospace;">Hi, I'm Shrinkhal</h1>
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">Cybersecurity Enthusiast | Linux Enthusiast | Ubuntu & RHEL Advocate</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">Cybersecurity Enthusiast | Linux Enthusiast | Ubuntu & RHEL</h3>
 
 <p align="center">
 
@@ -41,7 +41,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="./github-color-logo.svg" alt="github" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" style="margin-right: 10px;"/>
   <img src="./ubuntu-logo.svg" alt="ubuntu" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="rhel" width="40" height="40" style="margin-right: 10px;"/>
 </p>
