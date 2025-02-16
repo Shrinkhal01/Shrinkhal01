@@ -8,7 +8,6 @@
   <a href="https://twitter.com/_shrinkhal" target="_blank">
     <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=for-the-badge&color=E95420" alt="_shrinkhal" />
   </a>
-
   <a href="https://github.com/Shrinkhal01" target="_blank">
     <img src="https://img.shields.io/github/followers/Shrinkhal01?logo=github&style=for-the-badge&color=E95420" alt="GitHub Followers" />
   </a>
