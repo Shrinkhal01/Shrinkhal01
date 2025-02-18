@@ -73,13 +73,6 @@ Java was my first programming language, and it holds a special place in my heart
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&bg_color=282828&title_color=E95420&text_color=FFFFFF&icon_color=E95420&border_color=E95420" alt="Top Languages" />
 </p>
 
-<hr style="border: 1px solid #E95420;" />
-
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&background=282828&stroke=E95420&ring=E95420&fire=E95420&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E95420&sideLabels=FFFFFF&dates=FFFFFF&border=E95420" alt="Shrinkhal's Streak" />
-</p>
-
 ---
 
 <h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🐍 GitHub Contribution Snake</h3>
