@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Fira Code', monospace; color: #D35400;">Hi, I'm Shrinkhal</h1>
+<h1 align="center" style="font-family: 'Courier New', monospace; color: #E95420;">Hi, I'm Shrinkhal</h1>
 
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">Cybersecurity Enthusiast | Linux Enthusiast | Ubuntu & RHEL</h3>
 
@@ -69,11 +69,11 @@ Java was my first programming language and holds a special place in my heart for
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&bg_color=282828&title_color=D35400&text_color=FFFFFF&icon_color=D35400&border_color=D35400" alt="Top Languages" />
 </p>
 
-<h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">🔥 GitHub Streak</h3>
+<hr style="border: 1px solid #E95420;" />
+
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
 <p align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&theme=dark&hide_border=true&background=282828&fire=D35400" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&background=282828&stroke=E95420&ring=E95420&fire=E95420&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E95420&sideLabels=FFFFFF&dates=FFFFFF&border=E95420" alt="Shrinkhal's Streak" />
 </p>
 
 ---
