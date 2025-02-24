@@ -42,6 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="RHEL" width="35" height="35" style="margin: 5px;"/>
 </p>
 
+
 <hr style="border: 1px solid #D35400;" />
 
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">✨ About Me</h3>
