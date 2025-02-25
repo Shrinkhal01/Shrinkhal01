@@ -6,9 +6,11 @@
   <a href="https://twitter.com/_shrinkhal" target="_blank">
     <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=flat-square&color=2C3E50" alt="_shrinkhal" />
   </a>
+  ---
   <a href="https://github.com/Shrinkhal01" target="_blank">
     <img src="https://img.shields.io/github/followers/Shrinkhal01?logo=github&style=flat-square&color=2C3E50" alt="GitHub Followers" />
   </a>
+  ---
   <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=2C3E50" alt="LinkedIn" />
   </a>
