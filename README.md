@@ -1,6 +1,5 @@
 <h1 align="center" style="font-family: 'Courier New', monospace; color: #E95420;">Hi, I'm Shrinkhal</h1>
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">Cybersecurity Enthusiast | Linux Enthusiast | Ubuntu & RHEL</h3>
-
 <p align="center">
   <a href="https://twitter.com/_shrinkhal" target="_blank">
     <img src="https://img.shields.io/twitter/follow/_shrinkhal?logo=twitter&style=flat-square&color=2C3E50" alt="_shrinkhal" />
