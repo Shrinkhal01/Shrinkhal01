@@ -12,7 +12,6 @@
   </a>
 </p>
 
-
 <hr style="border: 1px solid #D35400;" />
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">🛠️ Tech Stack</h3>
 
