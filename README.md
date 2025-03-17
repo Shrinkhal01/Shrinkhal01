@@ -13,7 +13,6 @@
 </p>
 <hr style="border: 1px solid #D35400;" />
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">🛠️ Tech Stack</h3>
-
 <h4 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">Programming Languages</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35" style="margin: 5px;"/>
