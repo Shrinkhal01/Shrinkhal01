@@ -51,6 +51,13 @@
 
 <hr style="border: 1px solid #D35400;" />
 
+<h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">🎓 Training & Certifications</h3>
+<div align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">
+<p>Trained as RHEL system administrator</p>
+</div>
+
+<hr style="border: 1px solid #D35400;" />
+
 ### 🚀 100 Days of Code in Java
 I completed my <strong>100 Days of Code</strong> journey with Java—an experience that significantly boosted my development skills.
 
