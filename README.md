@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/shrinkhal-02761a2b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=2C3E50" alt="LinkedIn" />
   </a>
-  
 </p>
 <hr style="border: 1px solid #D35400;" />
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">🛠️ Tech Stack</h3>
