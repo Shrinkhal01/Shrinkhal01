@@ -20,7 +20,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" style="margin: 5px;"/>
 </p>
-
 <h4 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">ML/DL Libraries</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="35" height="35" style="margin: 5px;"/>
