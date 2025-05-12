@@ -25,7 +25,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="35" height="35" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="35" height="35" style="margin: 5px;"/>
 </p>
-
 <h4 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">Tools & Technologies</h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" height="35" style="margin: 5px;"/>
