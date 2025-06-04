@@ -78,7 +78,6 @@ Java was my first programming language and holds a special place in my heart for
 </p>
 
 ---
-
 <h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">🐍 GitHub Contribution Snake</h3>
 <p align="center">
   <picture>
