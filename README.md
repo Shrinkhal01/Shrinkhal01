@@ -63,7 +63,6 @@ Java was my first programming language and holds a special place in my heart for
 
 <hr style="border: 1px solid #D35400;" />
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #ddd;">🔥 Streak Counter</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrinkhal01&background=282828&stroke=E95420&ring=E95420&fire=E95420&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E95420&sideLabels=FFFFFF&dates=FFFFFF&border=E95420" alt="Shrinkhal's Streak" />
 </p>
