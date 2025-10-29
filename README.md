@@ -19,6 +19,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="35" height="35" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="35" height="35" style="margin: 5px;"/>
 </p>
 <h4 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">ML/DL Libraries</h4>
 <p align="center">
@@ -33,7 +36,27 @@
   <img src="./github-logo.svg" alt="GitHub" width="35" height="35" style="margin: 5px;"/>
   <img src="./ubuntu-logo.svg" alt="Ubuntu" width="35" height="35" style="margin: 5px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="RHEL" width="35" height="35" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="35" height="35" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="35" height="35" style="margin: 5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="35" height="35" style="margin: 5px;"/>
 </p>
+
+<hr style="border: 1px solid #D35400;" />
+
+<h3 align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">💬 Featured Project: Real-Time Chat Application</h3>
+<div align="center" style="font-family: 'Fira Code', monospace; color: #bbb;">
+  <p>A full-stack real-time chatting application built with React, Node.js, Express, Socket.IO, and MongoDB.</p>
+  <p><strong>Key Features:</strong></p>
+  <ul style="list-style: none; padding: 0;">
+    <li>✅ User authentication with JWT</li>
+    <li>✅ Real-time messaging with WebSockets</li>
+    <li>✅ Active users list</li>
+    <li>✅ Typing indicators</li>
+    <li>✅ Message persistence in MongoDB</li>
+    <li>✅ Responsive and user-friendly interface</li>
+  </ul>
+  <p>📁 <a href="./chat-app">View Project</a></p>
+</div>
 
 <hr style="border: 1px solid #D35400;" />
 
