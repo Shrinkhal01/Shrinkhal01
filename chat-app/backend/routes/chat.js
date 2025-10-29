@@ -20,7 +20,9 @@ router.get('/messages', [
 
     const { room = 'general', limit = 50 } = req.query;
     
-    const messages = await Message.find({ room })
+    // Safe query - room is validated and sanitized by express-validator
+    // Mongoose provides built-in protection against NoSQL injection
+    const messages = await Message.find({ room: String(room) })
       .sort({ createdAt: -1 })
       .limit(parseInt(limit))
       .populate('sender', 'username');

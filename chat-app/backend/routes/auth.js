@@ -65,8 +65,9 @@ router.post('/login', [
 
     const { email, password } = req.body;
 
-    // Find user
-    const user = await User.findOne({ email });
+    // Safe query - email is validated, normalized and sanitized by express-validator
+    // Mongoose provides built-in protection against NoSQL injection
+    const user = await User.findOne({ email: String(email) });
     if (!user) {
       return res.status(401).json({ message: 'Invalid credentials' });
     }
