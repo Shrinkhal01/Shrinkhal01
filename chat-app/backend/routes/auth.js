@@ -1,17 +1,23 @@
 const express = require('express');
 const router = express.Router();
 const jwt = require('jsonwebtoken');
+const { body, validationResult } = require('express-validator');
 const User = require('../models/User');
 
 // Register new user
-router.post('/register', async (req, res) => {
+router.post('/register', [
+  body('username').trim().isLength({ min: 3, max: 30 }).escape().withMessage('Username must be between 3 and 30 characters'),
+  body('email').trim().isEmail().normalizeEmail().withMessage('Invalid email address'),
+  body('password').isLength({ min: 6, max: 100 }).withMessage('Password must be at least 6 characters')
+], async (req, res) => {
   try {
-    const { username, email, password } = req.body;
-
-    // Validation
-    if (!username || !email || !password) {
-      return res.status(400).json({ message: 'Please provide all required fields' });
+    // Check validation errors
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ message: errors.array()[0].msg });
     }
+
+    const { username, email, password } = req.body;
 
     // Check if user already exists
     const existingUser = await User.findOne({ $or: [{ email }, { username }] });
@@ -46,14 +52,18 @@ router.post('/register', async (req, res) => {
 });
 
 // Login user
-router.post('/login', async (req, res) => {
+router.post('/login', [
+  body('email').trim().isEmail().normalizeEmail().withMessage('Invalid email address'),
+  body('password').notEmpty().withMessage('Password is required')
+], async (req, res) => {
   try {
-    const { email, password } = req.body;
-
-    // Validation
-    if (!email || !password) {
-      return res.status(400).json({ message: 'Please provide email and password' });
+    // Check validation errors
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ message: errors.array()[0].msg });
     }
+
+    const { email, password } = req.body;
 
     // Find user
     const user = await User.findOne({ email });

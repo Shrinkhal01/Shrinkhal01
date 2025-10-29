@@ -1,12 +1,23 @@
 const express = require('express');
 const router = express.Router();
+const { query, validationResult } = require('express-validator');
 const auth = require('../middleware/auth');
 const Message = require('../models/Message');
 const User = require('../models/User');
 
 // Get all messages (with pagination)
-router.get('/messages', auth, async (req, res) => {
+router.get('/messages', [
+  auth,
+  query('room').optional().trim().escape().isLength({ max: 100 }),
+  query('limit').optional().isInt({ min: 1, max: 100 }).toInt()
+], async (req, res) => {
   try {
+    // Check validation errors
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ message: errors.array()[0].msg });
+    }
+
     const { room = 'general', limit = 50 } = req.query;
     
     const messages = await Message.find({ room })
