@@ -43,7 +43,6 @@
   <p>🌟 Passionate about crafting engaging <strong>PowerPoint presentations</strong> and documenting Linux environments.</p>
   <p>📫 Reach me at: <strong>shrinkhalshrinkhal22@gmail.com</strong></p>
   <p>🌱 Learning <strong>Machine Learning, Deep Learning</strong>, and honing my Linux administration skills.</p>
-  <p>💬 Ask me about <strong>Cybersecurity, Linux, and Programming</strong>.</p>
 </div>
 
 <hr style="border: 1px solid #D35400;" />
