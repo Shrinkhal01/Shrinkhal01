@@ -52,12 +52,6 @@
 <p>Trained as RHEL system administrator</p>
 </div>
 
-### 🚀 100 Days of Code in Java
-I completed my <strong>100 Days of Code</strong> journey with Java—an experience that significantly boosted my development skills.
-
-#### Why Java?
-Java was my first programming language and holds a special place in my heart for its versatility, robust ecosystem, and efficiency in solving complex problems.
-
 <hr style="border: 1px solid #D35400;" />
 
 <p align="center">
