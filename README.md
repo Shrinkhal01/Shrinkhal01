@@ -1,6 +1,6 @@
 # Shrinkhal
 
-> Build in silence.
+> Build in silence.<br>
 > Ship with intent.
 
 ---
@@ -23,12 +23,10 @@ HTML | CSS | JavaScript | TypeScript | Web APIs
 
 ---
 
-**Consistency compounds.**
-
-**Systems beat motivation.**
-
+**Consistency compounds.**<br>
+**Systems beat motivation.**<br>
 **Progress is the only directive.**
 
 ---
-
+*Good ones will find you! Just keep on trying*<br>
 *Still building.*
