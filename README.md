@@ -24,7 +24,9 @@ HTML | CSS | JavaScript | TypeScript | Web APIs
 ---
 
 **Consistency compounds.**
+
 **Systems beat motivation.**
+
 **Progress is the only directive.**
 
 ---
