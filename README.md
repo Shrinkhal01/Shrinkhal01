@@ -1,7 +1,7 @@
 # Shrinkhal
 
-> I build in silence.
-> I ship with intent.
+> Build in silence.
+> Ship with intent.
 
 ---
 
@@ -22,8 +22,6 @@ Java | Python | C++ | C | Bash | Linux | Docker | Git
 HTML | CSS | JavaScript | TypeScript | Web APIs
 
 ---
-
-### 📈 Philosophy
 
 **Consistency compounds.**
 **Systems beat motivation.**
