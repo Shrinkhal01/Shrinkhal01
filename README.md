@@ -10,7 +10,6 @@
 - **Deep work practitioner.** Depth over noise.
 - **Progress over perfection.** Elegance over "just working."
 - **Iteration > Hesitation.** Foundations over trends.
-
 ---
 
 ### 🧠 Arsenal
