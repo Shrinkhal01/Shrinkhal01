@@ -28,4 +28,4 @@ HTML | CSS | JavaScript | TypeScript | Web APIs
 
 ---
 *Good ones will find you! Just keep on trying*<br>
-*Still building.*
+*BTW I'm Still building.*
