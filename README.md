@@ -9,8 +9,6 @@ Python, Java, TensorFlow, FastAPI, OpenCV, Linux
 
 ### Projects
 - Accident Detection System using TensorFlow + OpenCV
-- Fake Product Identification using Blockchain
-- ML deployment using FastAPI with API authentication
 
 ---
 
