@@ -1,3 +1,1 @@
-### Languages
-
 ![Languages](./languages.svg)
