@@ -5,7 +5,8 @@ const octokit = new Octokit({
   auth: process.env.METRICS_TOKEN,
 });
 
-async function getLanguages() {
+async function main() {
+  // ONE API CALL ONLY (scales to 100+ repos)
   const repos = await octokit.paginate(octokit.repos.listForUser, {
     username: "Shrinkhal01",
     per_page: 100,
@@ -15,43 +16,48 @@ async function getLanguages() {
 
   for (const repo of repos) {
     if (repo.fork) continue;
+    if (!repo.language) continue;
 
-    const langs = await octokit.repos.listLanguages({
-      owner: "Shrinkhal01",
-      repo: repo.name,
-    });
+    // weighted by repo size for better accuracy
+    const weight = repo.size || 1;
 
-    for (const [lang, bytes] of Object.entries(langs.data)) {
-      languageMap[lang] = (languageMap[lang] || 0) + bytes;
-    }
+    languageMap[repo.language] =
+      (languageMap[repo.language] || 0) + weight;
   }
 
-  return languageMap;
-}
+  const total = Object.values(languageMap).reduce((a, b) => a + b, 0);
 
-function generateSVG(data) {
-  const total = Object.values(data).reduce((a, b) => a + b, 0);
+  // SORT by usage (important for readability)
+  const sorted = Object.entries(languageMap)
+    .sort((a, b) => b[1] - a[1]);
 
-  let y = 20;
-  let svg = `<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">`;
-  svg += `<text x="10" y="15" font-size="14">Languages Used</text>`;
+  // SVG generation (clean bar-style layout)
+  let y = 30;
 
-  for (const [lang, bytes] of Object.entries(data)) {
-    const percent = ((bytes / total) * 100).toFixed(1);
-    svg += `<text x="10" y="${y}">${lang}: ${percent}%</text>`;
-    y += 20;
+  let svg = `
+<svg width="500" height="${50 + sorted.length * 25}" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: 14px sans-serif; fill: #e6e6e6; }
+    .title { font: 16px bold sans-serif; fill: #ffffff; }
+  </style>
+
+  <text x="10" y="20" class="title">Language Usage</text>
+`;
+
+  for (const [lang, value] of sorted) {
+    const percent = ((value / total) * 100).toFixed(1);
+
+    svg += `
+  <text x="10" y="${y}" class="text">
+    ${lang}: ${percent}%
+  </text>
+`;
+    y += 22;
   }
 
   svg += `</svg>`;
-  return svg;
-}
-
-async function main() {
-  const data = await getLanguages();
-  const svg = generateSVG(data);
 
   fs.writeFileSync("languages.svg", svg);
-  console.log("Generated languages.svg");
 }
 
 main();

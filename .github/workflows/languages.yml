@@ -1,9 +1,9 @@
 name: Generate Language Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: npm install @octokit/rest
 
-      - name: Generate language stats
+      - name: Generate language SVG
         run: node scripts/generate-languages.js
         env:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
@@ -31,5 +31,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add languages.svg
-          git commit -m "update languages stats" || echo "no changes"
+          git commit -m "update language stats" || echo "no changes"
           git push

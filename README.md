@@ -1,4 +1,3 @@
--
-### Languages Used
+### Languages
 
 ![Languages](./languages.svg)
