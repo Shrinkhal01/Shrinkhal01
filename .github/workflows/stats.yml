@@ -1,0 +1,20 @@
+name: Generate Language Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          output_file: top-langs.svg
