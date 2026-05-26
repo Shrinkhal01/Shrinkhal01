@@ -1,0 +1,29 @@
+
+<svg width="500" height="175" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: 14px sans-serif; fill: #e6e6e6; }
+    .title { font: 16px bold sans-serif; fill: #ffffff; }
+  </style>
+
+  <text x="10" y="20" class="title">Language Usage</text>
+
+  <text x="10" y="30" class="text">
+    Python: 94.6%
+  </text>
+
+  <text x="10" y="52" class="text">
+    JavaScript: 5.4%
+  </text>
+
+  <text x="10" y="74" class="text">
+    TypeScript: 0.0%
+  </text>
+
+  <text x="10" y="96" class="text">
+    HTML: 0.0%
+  </text>
+
+  <text x="10" y="118" class="text">
+    Java: 0.0%
+  </text>
+</svg>
