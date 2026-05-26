@@ -15,4 +15,4 @@ Python, Java, TensorFlow, FastAPI, OpenCV, Linux
 ---
 
 ### GitHub Stats
-![Languages](https://github.com/Shrinkhal01/Shrinkhal01/raw/main/github-metrics.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinkhal01&layout=compact&langs_count=8&hide_border=true)
